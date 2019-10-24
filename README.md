@@ -12,5 +12,5 @@ Troubleshoot:
       - rerunning the command should create the file
    2. curr.txt is not accessible/readable
       - change permission on file using chmod or other methods
-   3. if brightness is =100% or <=30%
+   3. if brightness is >=100% or <=30%
       - this is expected 
